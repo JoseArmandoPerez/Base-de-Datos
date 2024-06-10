@@ -1,0 +1,7 @@
+{
+  "name": "Cliente_BDD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
